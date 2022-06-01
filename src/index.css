@@ -171,12 +171,12 @@ p {
 }
 
 .green:hover {
-  background: green;
+  background: var(--clr-green-dark);
   color: white;
 }
 
 .red:hover {
-  background: red;
+  background: var(--clr-red-dark);
   color: white;
 }
 
